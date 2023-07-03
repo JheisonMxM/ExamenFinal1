@@ -1,9 +1,10 @@
-/* Add to Cart */
-.card-container{
-position: relative;
-width: 530px;
-height: 599px;
-background: rgb(226, 209, 212);
 
-border-radius: 14.2005px;
-}
+.card-container{
+    position: absolute;
+    width: 531px;
+    height: 600px;
+    left: 196px;
+    top: 127px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    }
